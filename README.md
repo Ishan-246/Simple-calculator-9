@@ -29,9 +29,14 @@ A clean and responsive calculator built with **React JS**. It supports basic ari
 
 
 ##WHAT I LEARNED FROM THIS CODE
+
+
 -how to write complex code for the first time
+
 -learned new css commands
--  Learned whats meaning of this code 
+
+-  Learned whats meaning of this code
+-  
 const handleCalculate = () => {
     try {
       setInput(eval(input).toString()); // Use with caution
