@@ -23,7 +23,7 @@ A clean and responsive calculator built with **React JS**. It supports basic ari
 
 ##  Built With
 
-- [React JS](https://reactjs.org/)
+- [React JS]
 - HTML & CSS
 - JavaScript 
 
